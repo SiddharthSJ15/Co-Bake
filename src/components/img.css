@@ -1,0 +1,26 @@
+.background-hero{
+    position:absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background:linear-gradient(180deg, rgba(0, 0, 0, 0.3) 100%, rgba(0, 0, 0, 0) 100%),
+    linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
+    url("../assets/home.jpeg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+/* Sushi Home - Hero 2 */
+
+/* position: absolute;
+width: 1283px;
+height: 709px;
+left: 0px;
+top: 0px; */
+
+/* background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), linear-gradient(180deg, rgba(0, 0, 0, 0.3) 39.06%, rgba(0, 0, 0, 0) 100%), url(Leonardo_Creative_attractive_image_of_1_Pair_Chopsticks_for_ja_2 (1).jpg); */
+/* opacity: 0.6; */

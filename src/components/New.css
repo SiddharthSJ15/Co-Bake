@@ -1,0 +1,286 @@
+/* Group 3 */
+
+position: absolute;
+width: 183px;
+height: 70px;
+left: 67px;
+top: 66px;
+
+
+
+/* the Co & Bake */
+
+position: absolute;
+width: 183px;
+height: 40px;
+left: 67px;
+top: 66px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 250;
+font-size: 28.1934px;
+line-height: 40px;
+/* identical to box height, or 140% */
+text-align: center;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #FEFEFE;
+
+
+
+/* choose kozhikode */
+
+position: absolute;
+width: 127px;
+height: 40px;
+left: 95px;
+top: 96px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 250;
+font-size: 14.19px;
+line-height: 40px;
+/* identical to box height, or 279% */
+text-align: center;
+letter-spacing: -0.03em;
+text-transform: uppercase;
+
+color: #FEFEFE;
+
+/* Group 2 */
+
+position: absolute;
+width: 917px;
+height: 24px;
+left: 305px;
+top: 71px;
+
+
+
+/* home */
+
+position: absolute;
+width: 53px;
+height: 24px;
+left: 305px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Search */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: 424px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #C8B9AF;
+
+
+
+/* pastry */
+
+position: absolute;
+width: 63px;
+height: 24px;
+left: 559px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* menus */
+
+position: absolute;
+width: 62px;
+height: 24px;
+left: 688px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* about */
+
+position: absolute;
+width: 59px;
+height: 24px;
+left: 816px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* contact */
+
+position: absolute;
+width: 79px;
+height: 24px;
+left: 941px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* privacy policy */
+
+position: absolute;
+width: 136px;
+height: 24px;
+left: 1086px;
+top: 71px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+
+
+/* Component 1 */
+
+position: absolute;
+width: 244px;
+height: 45px;
+left: 977px;
+top: 809px;
+
+
+
+/* Group 56 */
+
+position: absolute;
+width: 244px;
+height: 45px;
+left: 0px;
+top: 0px;
+
+
+
+/* www.abdc@gmail.com */
+
+position: absolute;
+width: 182px;
+height: 24px;
+left: 12px;
+top: 10px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 100;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+text-transform: lowercase;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 88.93%;
+right: 3.69%;
+top: 31.11%;
+bottom: 28.89%;
+
+border: 1px solid #FFFFFF;
+
+
+/* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 244px;
+height: 45px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #FDFDFD;
+
+
+/* Sushi Home - Hero 2 */
+
+position: absolute;
+width: 1283px;
+height: 709px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), linear-gradient(180deg, rgba(0, 0, 0, 0.3) 39.06%, rgba(0, 0, 0, 0) 100%), url(Leonardo_Creative_attractive_image_of_1_Pair_Chopsticks_for_ja_2 (1).jpg);
+opacity: 0.6;

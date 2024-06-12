@@ -1,0 +1,10 @@
+.form-control::placeholder {
+    color: #fff; /* or any other white shade you prefer */
+    opacity: 1; /* optional, to make the placeholder text more visible */
+  }
+
+  .form-control:focus {
+    border-color: inherit;
+    box-shadow: none;
+    outline: none;
+  }

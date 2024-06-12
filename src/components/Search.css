@@ -1,0 +1,27 @@
+.input {
+	background-color: #212121;
+	width: 70vh;
+	height: 40px;
+	color: white;
+	padding: 10px;
+	/* text-align: center; */
+	border: none;
+	border-radius: 5px;
+	box-shadow: none;
+	outline: none;
+	font-family: 'Montserrat';
+	/* box-shadow: 3px 3px 2px rgb(249, 255, 85); */
+  }
+  .input::placeholder {
+    color: lightgray; /* or any other white shade you prefer */
+    opacity: 1; /* optional, to make the placeholder text more visible */
+  }
+
+  .input:focus {
+	color: white;
+	background-color: #212121;
+	outline-color: none;
+	box-shadow: none;
+	transition: .1s;
+	transition-property: box-shadow;
+  }

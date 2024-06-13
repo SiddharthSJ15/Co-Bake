@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Co-Bake/static/css/main.8ca35619.css",
-    "main.js": "/Co-Bake/static/js/main.a1033e79.js",
+    "main.js": "/Co-Bake/static/js/main.d77ad1de.js",
     "static/js/453.ca20f0ca.chunk.js": "/Co-Bake/static/js/453.ca20f0ca.chunk.js",
     "static/media/home.jpeg": "/Co-Bake/static/media/home.135916978d8f40b50850.jpeg",
     "static/media/cake1.png": "/Co-Bake/static/media/cake1.b4d578f7d4ad188c4529.png",
     "index.html": "/Co-Bake/index.html",
     "main.8ca35619.css.map": "/Co-Bake/static/css/main.8ca35619.css.map",
-    "main.a1033e79.js.map": "/Co-Bake/static/js/main.a1033e79.js.map",
+    "main.d77ad1de.js.map": "/Co-Bake/static/js/main.d77ad1de.js.map",
     "453.ca20f0ca.chunk.js.map": "/Co-Bake/static/js/453.ca20f0ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ca35619.css",
-    "static/js/main.a1033e79.js"
+    "static/js/main.d77ad1de.js"
   ]
 }

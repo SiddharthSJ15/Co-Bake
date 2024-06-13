@@ -6,7 +6,7 @@ function Search() {
 
     <div className="bg-dark">
         <div className="container">
-            <div class="d-flex flex-row col-sm-6 col-md-6 align-items-start">
+            <div class="d-flex flex-row col-sm-6 col-md-6 align-items-start" style={{fontFamily:"Poppins"}}>
 {/* FIRST SECTION */} 
                 <div className="col col-sm-10 mt-5" style={{ height: "70vh", overflowY: "auto", scrollbarWidth: "none",msOverflowStyle: "none",WebkitOverflowScrolling: "touch","&::-webkit-scrollbar": {display: "none"}}}>
                     <div className="row mt-5">           
@@ -27,15 +27,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -66,15 +66,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -104,15 +104,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -151,15 +151,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -195,15 +195,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -239,15 +239,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -288,15 +288,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -332,15 +332,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 
@@ -376,15 +376,15 @@ function Search() {
                                 <tbody className="text-center rounded-top">
                                     <tr className="">
                                         <td className="border border-5 border-start-0 border-bottom-0 border-dark rounded-top">750 gm</td>
-                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top">Rs. 1570</td>
+                                        <td className="border border-5 border-end-0 border-bottom-0 border-dark rounded-top"><span>&#8377;</span> 1570</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 border-top-0 border-bottom-0 border-dark">Hot Cake</td>
-                                        <td className="border-end-0 border-bottom-0">Rs. 895</td>
+                                        <td className="border-end-0 border-bottom-0"><span>&#8377;</span> 895</td>
                                     </tr>
                                     <tr>
                                         <td className="border border-5 border-start-0 rounded-bottom border-top-0 border-bottom-0 border-dark ">Slice</td>
-                                        <td className="border-end-0 border-bottom-0 rounded-bottom">Rs. 245</td>
+                                        <td className="border-end-0 border-bottom-0 rounded-bottom"><span>&#8377;</span> 245</td>
                                     </tr>
                                 </tbody>
 

@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 // import Home from "./Home";
 import Search from "./Search";
@@ -8,6 +8,11 @@ import Nav from "./navbar";
 import "./img.css";
 
 function Main() {
+    
+    useEffect(()=>{
+        document.title='Co & Bake'
+    })
+
     return (
         <>
         <div className="d-flex flex-column min-vh-100">            

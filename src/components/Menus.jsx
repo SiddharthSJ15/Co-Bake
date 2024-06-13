@@ -1,7 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import firstImage from "../assets/cake1.png";
 function Search() {
+    
+    useEffect(()=>{
+        document.title='Menus'
+    })
     return (
 
     <div className="bg-dark">

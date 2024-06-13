@@ -1,8 +1,13 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./Home.css";
 import homeImage from "../assets/home.jpeg"
 import "./Search.css";
 function Home() {
+  
+  useEffect(()=>{
+    document.title='Search'
+})
+
     return (
       <div className="container mt-5 pt-5">
         <div className="row mt-auto ">

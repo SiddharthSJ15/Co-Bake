@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
-// import Home from "./Home";
+import Home from "./Home";
 import Search from "./Search";
 import Footer from "./Footer";
 import Menus from "./Menus";
@@ -18,6 +18,7 @@ function Main() {
         <div className="d-flex flex-column min-vh-100">            
             <Nav />
             <Routes>
+                <Route path="/" element={<Home />} />
                 <Route path="/search" element={<Search />} />
                 <Route path="/menu" element={<Menus />} />
             </Routes>

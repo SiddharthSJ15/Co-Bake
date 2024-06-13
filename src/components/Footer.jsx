@@ -8,7 +8,7 @@ function Footer() {
 
                         <div class="col-auto  mt-2 py-3 ">
                             <a href="/" class="d-flex align-items-center mb-3 link-dark text-decoration-none">
-                            <Link class="navbar-brand text-light text-center text-wrap " to="#">
+                            <Link class="navbar-brand text-light text-center text-wrap " to="/">
                                 <div className="row">
                                     <h2 style={{ fontFamily: 'Poppins, sans-serif', fontWeight:"250", fontSize:"48.5801px" }}>THE CO & BAKE</h2>
                                 </div>
@@ -21,14 +21,14 @@ function Footer() {
                         
                         <div class="col-auto mt-5 ms-5" style={{textAlign:"left"}}>
                             <ul className="nav flex-column">
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">HOME</a></li>
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">MENUS</a></li>
+                                <li class="nav-item mb-2"><Link to="/" class="nav-link p-0 text-light">HOME</Link></li>
+                                <li class="nav-item mb-2"><Link to="/menu" class="nav-link p-0 text-light">MENUS</Link></li>
                             </ul>
                         </div>
 
                             <div class="col-auto ms-5 mt-5" style={{textAlign:"left"}}>
                             <ul class="nav flex-column">
-                                <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">SEARCH</a></li>
+                                <li class="nav-item mb-2"><Link to="/search" class="nav-link p-0 text-light">SEARCH</Link></li>
                                 <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-light">ABOUT</a></li>
                             </ul>
                         </div>

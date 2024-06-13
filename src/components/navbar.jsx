@@ -29,7 +29,7 @@ function Navbar() {
           </button>
           <div className={`collapse navbar-collapse ${showNav ? 'show' : ''}`} id="navbarNav">
             <div className="navbar-nav" style={{ fontFamily: 'Montserrat, sans-serif', fontWeight: "400", fontSize: "16px" }}>
-              <Link className="nav-link mx-4 text-light" aria-current="page" to="/">
+              <Link className="nav-link mx-4 text-light" aria-current="page" to="/Co-Bake">
                 HOME
               </Link>
               <Link className="nav-link mx-4 text-light" to="/search">

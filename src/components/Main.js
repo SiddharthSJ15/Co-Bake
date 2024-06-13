@@ -18,7 +18,7 @@ function Main() {
         <div className="d-flex flex-column min-vh-100">            
             <Nav />
             <Routes>
-                <Route path="/" element={<Home />} />
+                <Route path="/Co-Bake" element={<Home />} />
                 <Route path="/search" element={<Search />} />
                 <Route path="/menu" element={<Menus />} />
             </Routes>
